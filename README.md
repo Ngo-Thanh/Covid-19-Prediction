@@ -4,9 +4,9 @@ The objective of this project is to study the COVID-19 outbreak using basic visu
 
 ** Regression Methods used:**
 
-Linear regression
-Polynomial Regression
-Ridge regression
-Polynomial Ridge regression
-SVM
-Decision tree
+- Linear regression
+- Polynomial Regression
+- Ridge regression
+- Polynomial Ridge regression
+- SVM
+- Decision tree
